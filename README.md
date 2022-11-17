@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vedprakash Maliarya
-- 🏨 I’m in 2nd year of B.Sc.(CS)
+- 🏨 I’m in 3rd year of B.Sc.(CS)
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web-D
 - 💞️ I’m looking to collaborate on projects
